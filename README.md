@@ -3,7 +3,7 @@
 Tiny FastAPI app that ingests `.txt/.md` docs and answers questions using **hybrid retrieval** (embeddings + keyword), with **citations** and an **"I don't know"** fallback.
 
 ## Quickstart
-```
+```bash
 python -m venv .venv
 # Windows: . .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
